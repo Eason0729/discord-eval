@@ -4,9 +4,11 @@ A discord bot to execute message content as code safely
 
 ## function
 
-the discord bot check every new message on your discord server, response with result of execution.
+The discord bot check every new message on your discord server, response with result of execution.
 
 ![image](https://github.com/Eason0729/discord-eval/assets/30045503/e0abb845-b89f-4c07-8636-05b5dde9a1c6)
+
+![image](https://github.com/Eason0729/discord-eval/assets/30045503/93c1a909-721d-4619-81a2-716c4ced9942)
 
 ## Setup
 
