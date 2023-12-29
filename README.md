@@ -10,7 +10,10 @@ the discord bot check every new message on your discord server, response with re
 
 ## Setup
 
-this project rely on modj-sandbox)
+This project rely on mdoj-judger(previously know as modj-sandbox), download judger from [mdoj's github release](https://github.com/mdcpp/mdoj/releases), change config, specifically you want to change the maximum memory reverse for judger, than start the judger.
 
-###
-
+Then install pip packages with `pip install -r requirements.txt`, set environment variable, finally, start the discord bot.
+```
+TOKEN=token.of.discord.bot
+JUDGER=localhost:8080
+```
